@@ -1,6 +1,6 @@
 <h1 style="text-align:center;">Neural Network Models for Electrocardiogram Classification</h1>
 <h2 style="text-align:center;">Final Project Report</h2>
-<h2 style="text-align:center;"> Austin Bostwick, Nicholas Emer, Jack Lattanzi, and Nate Peebles</h2>
+<h3 style="text-align:center;"> Austin Bostwick, Nicholas Emer, Jack Lattanzi, and Nate Peebles</h3>
 
 # Abstract (Motivation/Relevance)
 Atrial and ventricular fibrillations are well-known risk factors for stroke due to the potential formation of blood clots in the heart that can travel to the brain. Detecting heart arrhythmias early before they devolve into fibrillation through an ECG can lead to the initiation of anticoagulant therapy, which significantly reduces the risk of stroke. Effective ventricular and atrial arrhythmia management can significantly improve a patient's quality of life. It can reduce symptoms such as palpitations, shortness of breath, and fatigue, allowing individuals to maintain a more active and fulfilling lifestyle.
